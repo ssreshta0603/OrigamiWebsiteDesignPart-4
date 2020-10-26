@@ -1,0 +1,28 @@
+*{
+    background-image: url(bg2.png);
+}
+.header{
+    color: DC143C;
+
+display:flex;
+justify-content: center;
+}
+.item1 img:hover{
+    transform:scale(1.2);
+    position:absolute;
+}
+.item2 img:hover{
+    transform:scale(1.2)
+}
+.item3 img:hover{
+    transform:scale(1.2)
+}
+.item4 img:hover{
+    transform:scale(1.2)
+}
+.item5 img:hover{
+    transform:scale(1.2)
+}
+.item6 img:hover{
+    transform:scale(1.2)
+}

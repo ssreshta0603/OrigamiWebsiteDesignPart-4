@@ -1,0 +1,36 @@
+body{
+    background-image:url(bg.png) ;
+}
+.header{
+    color:#DC143C;
+    display: flex;
+    justify-content:center;
+}
+.item,ul{
+    color:#FF4500;
+}
+a:link{
+    color:#FF0000;
+}
+a:visited{
+    color:#FF0000
+}
+.item1 img:hover{
+    transform:scale(1.2);
+    position:absolute;
+}
+.item2 img:hover{
+    transform:scale(1.2)
+}
+.item3 img:hover{
+    transform:scale(1.2)
+}
+.item4 img:hover{
+    transform:scale(1.2)
+}
+.item5 img:hover{
+    transform:scale(1.2)
+}
+.item6 img:hover{
+    transform:scale(1.2)
+}
